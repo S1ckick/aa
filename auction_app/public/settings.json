@@ -1,0 +1,76 @@
+{
+  "drawings": [
+    {
+      "id": "0",
+      "name": "Fruit and Flowers",
+      "author": "Roger Fenton",
+      "image": "1.jpg",
+      "overview": "In the summer of 1860 Fenton made his most deliberate and exacting photographs to date: a series of still lifes. Although the subject obviously had its roots in painting, his densely packed compositions are far removed from the renditions of everyday life by the Dutch masters. Instead, Fenton extravagantly piled luscious fruits and intricately patterned flowers on top of one another and pushed them to the front of his composition so that they seem almost ready to tumble out of the photograph into the viewer's space. It is that very immediacy—the precarious composition, the lush sensuousness of the objects, and our knowledge of their imminent decay—that makes these photographs so striking.",
+      "start_price": "1000",
+      "min_step": "200",
+      "max_step": "10000",
+      "auction": "No"
+    },
+    {
+      "id": "1",
+      "name": "The Fortress of Königstein",
+      "author": "Bernardo Bellotto",
+      "image": "2.jpg",
+      "overview": "Nephew and pupil of the celebrated Venetian view painter Canaletto, Bernardo Bellotto began by depicting various locations in Venice in the precisely topographical style of his uncle. As he traveled throughout Italy, however, Bellotto gradually developed a distinctive and increasingly poetic manner of his own.",
+      "start_price": "1300",
+      "min_step": "100",
+      "max_step": "20000",
+      "auction": "No"
+    },
+    {
+      "id": "2",
+      "name": "The Japanese Footbridge",
+      "author": "Claude Monet",
+      "image": "3.jpg",
+      "overview": "In 1883 Monet moved his household, his two sons along with Alice Hoschedé and her children, to the rural community of Giverny, where he leased a house that he was able to purchase seven years later. In early 1893, he acquired a swampy area across the railroad tracks abutting his property and petitioned the village council for permission to divert a small stream into it. But it was only toward the end of that decade that he turned to the garden he had created there as a rich source of artistic inspiration.",
+      "start_price": "10000",
+      "min_step": "1000",
+      "max_step": "40000",
+      "auction": "No"
+    },
+    {
+      "id": "3",
+      "name": "The Alba Madonna",
+      "author": "Raphael",
+      "image": "4.jpg",
+      "overview": "After four years in Florence, Raphael moved to Rome in 1508, probably to execute more significant commissions under the papal reign of Julius II. The major work in America from Raphael's Roman period is The Alba Madonna. In this 'Madonna of Humility' the Virgin is seated directly on the ground instead of on a heavenly throne or a sumptuous cushion.",
+      "start_price": "20000",
+      "min_step": "4000",
+      "max_step": "100000",
+      "auction": "No"
+    },
+    {
+      "id": "4",
+      "name": "Rubens Peale with a Geranium",
+      "author": "Rembrandt Peale",
+      "image": "5.jpg",
+      "overview": "Charles Willson Peale christened most of his seventeen children after famous artists and scientists; however, there is little consistency between the sons' and daughters' namesakes and their adult careers. While Rembrandt Peale did become a painter and the portraitist of this work, Rubens Peale, who sat for this likeness at the age of seventeen, was a botanist.",
+      "start_price": "4000",
+      "min_step": "4000",
+      "max_step": "100000",
+      "auction": "No"
+    }
+  ],
+  "people": [
+    {
+      "name": "Michael Douglas",
+      "cash": "500000",
+      "draws": []
+    },
+    { "name": "James Cameron", "cash": "2300000", "draws": [] },
+    { "name": "Oprah Winfrey", "cash": "1000000", "draws": [] },
+    { "name": "Tiger Woods", "cash": "90000000", "draws": [] },
+    { "name": "admin", "cash": "0", "draws": [] }
+  ],
+  "options": {
+    "datetime": "2021-09-05T12:50:44",
+    "timeout": "00:00:01",
+    "interval": "00:00:05",
+    "pause": "04:10:35"
+  }
+}

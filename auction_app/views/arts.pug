@@ -1,0 +1,22 @@
+doctype html    
+html
+    head 
+        title Arts
+        style 
+            include w3.css
+            include player.css
+        script(type='text/javascript' src='../public/jquery-3.6.0.min.js')
+        script(type='text/javascript' src='../public/jquery-ui.min.js')
+        script(type='text/javascript' src='http://localhost:3030/socket.io/socket.io.js')
+        script(type='text/javascript' src='../public/arts.js')
+    body
+        div(id="header")
+            div(id="title_header")
+                h2 Admin
+        h1 Arts 
+        table(id="tableArts", border = 1)
+            thead 
+                tr
+                    th Art 
+                    th Price
+            tbody 

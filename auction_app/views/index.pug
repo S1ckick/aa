@@ -1,0 +1,23 @@
+doctype html    
+html
+    head 
+        title Auction
+        style 
+            include w3.css
+            include index.css
+        link(rel="icon" type="image/png" href="public/favicon.png")
+        script(type='text/javascript' src='public/jquery-3.6.0.min.js')
+        script(type='text/javascript' src='public/jquery-ui.min.js')
+        script(type='text/javascript' src='http://localhost:3030/socket.io/socket.io.js')
+        script(type='text/javascript' src='public/auction.js')
+    body
+        div(id="header")
+            div(id="title_header")
+                h2 Auction
+            div(id="login_header")
+                input(id="name" class="w3-input w3-border" placeholder="Input name")
+                button(id="login" class="w3-button w3-teal w3-round-xxlarge" onclick="Login()") Вход
+            div(id="player_header")
+                a(id="player" href="http://localhost:3000/player")
+
+
